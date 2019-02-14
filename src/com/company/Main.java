@@ -42,6 +42,9 @@ public class Main {
         else if (70<value && value<81){
             System.out.println("New year, new you?");
         }
+        else if (80<value && value<91){
+            System.out.println("It's your lucky day!");
+        }
 
 
 
