@@ -36,7 +36,9 @@ public class Main {
         else if (50<value && value<61){
             System.out.println("Sounds like the average day");
         }
-        
+        else if (60<value && value<71){
+            System.out.println("Keep the good stuff coming");
+        }
 
 
 
