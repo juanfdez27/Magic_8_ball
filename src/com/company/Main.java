@@ -10,7 +10,17 @@ public class Main {
         Scanner keyboard;
         int testing;
         String question;
-        
+
+
+        // initialization phase
+        keyboard =  new Scanner(System.in);
+
+        System.out.println("Rate your day from 1-100");
+        question = keyboard.nextLine();
+
+
+
+
 
 
 
