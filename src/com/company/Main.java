@@ -30,6 +30,9 @@ public class Main {
         else if (30<value && value<41){
             System.out.println("Man up kiddo");
         }
+        else if (40<value && value<51){
+            System.out.println("Gotta have the bad days to appreciate the good ones");
+        }
 
 
 
