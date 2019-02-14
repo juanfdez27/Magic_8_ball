@@ -18,12 +18,17 @@ public class Main {
         System.out.println("Rate your day from 1-100");
         value = keyboard.nextInt();
 
-        if (0<value && value<11);{
+        if (0<value && value<11){
             System.out.println("Rough day huh?");
         }
-        else if (10<value && value<21);{
+        else if (10<value && value<21){
             System.out.println("Keep your head up");
         }
+        else if (20<value && value<31){
+            System.out.println("It could be worse");
+        }
+
+
 
 
 
