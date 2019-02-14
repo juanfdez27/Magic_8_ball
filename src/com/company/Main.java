@@ -45,6 +45,9 @@ public class Main {
         else if (80<value && value<91){
             System.out.println("It's your lucky day!");
         }
+        else if (90<value && value<101){
+            System.out.println("Buy a lottery ticket");
+        }
 
 
 
