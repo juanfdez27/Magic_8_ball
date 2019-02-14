@@ -33,6 +33,10 @@ public class Main {
         else if (40<value && value<51){
             System.out.println("Gotta have the bad days to appreciate the good ones");
         }
+        else if (50<value && value<61){
+            System.out.println("Sounds like the average day");
+        }
+        
 
 
 
