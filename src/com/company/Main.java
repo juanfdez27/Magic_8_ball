@@ -8,7 +8,7 @@ public class Main {
 	// declare
 
         Scanner keyboard;
-        int testing;
+        int value;
         String question;
 
 
@@ -16,7 +16,10 @@ public class Main {
         keyboard =  new Scanner(System.in);
 
         System.out.println("Rate your day from 1-100");
-        question = keyboard.nextLine();
+        value = keyboard.nextInt();
+
+        if (0<value && value<11);
+        System.out.println("Rough day huh?");
 
 
 
