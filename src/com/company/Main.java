@@ -27,6 +27,9 @@ public class Main {
         else if (20<value && value<31){
             System.out.println("It could be worse");
         }
+        else if (30<value && value<41){
+            System.out.println("Man up kiddo");
+        }
 
 
 
