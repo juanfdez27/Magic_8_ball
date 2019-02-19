@@ -8,7 +8,7 @@ public class Main {
 	// declare
 
         Scanner keyboard;
-        int value;
+        int testing;
         String question;
 
 
