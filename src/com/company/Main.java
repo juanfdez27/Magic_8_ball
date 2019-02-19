@@ -14,12 +14,13 @@ public class Main {
 
         // initialization phase
         keyboard =  new Scanner(System.in);
-
-        System.out.println("Rate your day from 1-100");
+        System.out.println("Ask me a yes or no question");
+        question = keyboard.nextLine();
+        System.out.println("Rate your day so far from 1-100");
         value = keyboard.nextInt();
 
         if (0<value && value<11){
-            System.out.println("Rough day huh?");
+            System.out.println("NO!!!!!");
         }
         else if (10<value && value<21){
             System.out.println("Keep your head up");
