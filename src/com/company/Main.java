@@ -14,7 +14,7 @@ public class Main {
 
         // initialization phase
         keyboard =  new Scanner(System.in);
-        System.out.println("Ask me a yes or no question");
+        System.out.println("Ask me a yes or no question based on your plans today");
         question = keyboard.nextLine();
         System.out.println("Rate your day so far from 1-100");
         value = keyboard.nextInt();
@@ -44,7 +44,7 @@ public class Main {
             System.out.println("Definately");
         }
         else if (80<value && value<91){
-            System.out.println("It's your lucky day!");
+            System.out.println("It's your lucky day! Do it");
         }
         else if (90<value && value<101){
             System.out.println("Buy a lottery ticket");
