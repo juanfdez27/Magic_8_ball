@@ -35,7 +35,7 @@ public class Main {
             System.out.println("Take matters in your own hands");
         }
         else if (50<value && value<61){
-            System.out.println("Sounds like the average day");
+            System.out.println("If you say so");
         }
         else if (60<value && value<71){
             System.out.println("Keep the good stuff coming");
