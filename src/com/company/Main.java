@@ -26,7 +26,7 @@ public class Main {
             System.out.println("Not the best idea");
         }
         else if (20<value && value<31){
-            System.out.println("It could be worse");
+            System.out.println("Sounds risky");
         }
         else if (30<value && value<41){
             System.out.println("Man up kiddo");
