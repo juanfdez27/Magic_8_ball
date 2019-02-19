@@ -32,7 +32,7 @@ public class Main {
             System.out.println("That will result in failure");
         }
         else if (40<value && value<51){
-            System.out.println("gotta have the good days to appreciate the bad ones");
+            System.out.println("Take matters in your own hands");
         }
         else if (50<value && value<61){
             System.out.println("Sounds like the average day");
