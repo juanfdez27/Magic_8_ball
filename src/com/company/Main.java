@@ -41,7 +41,7 @@ public class Main {
             System.out.println("I think yes");
         }
         else if (70<value && value<81){
-            System.out.println("New year, new you?");
+            System.out.println("Definately");
         }
         else if (80<value && value<91){
             System.out.println("It's your lucky day!");
