@@ -23,7 +23,7 @@ public class Main {
             System.out.println("NO!!!!!");
         }
         else if (10<value && value<21){
-            System.out.println("Keep your head up");
+            System.out.println("Not the best idea");
         }
         else if (20<value && value<31){
             System.out.println("It could be worse");
