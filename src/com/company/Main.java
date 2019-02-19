@@ -38,7 +38,7 @@ public class Main {
             System.out.println("If you say so");
         }
         else if (60<value && value<71){
-            System.out.println("Keep the good stuff coming");
+            System.out.println("I think yes");
         }
         else if (70<value && value<81){
             System.out.println("New year, new you?");
